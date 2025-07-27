@@ -1,2 +1,2 @@
 # CodeAlpha_Python_Programming
-Tasks of CodeAlpha internshi[
+Tasks of CodeAlpha internship
